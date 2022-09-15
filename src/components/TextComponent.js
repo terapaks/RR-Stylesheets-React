@@ -1,9 +1,8 @@
 import React from "react";
-import { propTypes } from "react-bootstrap/esm/Image";
 
-export default function Example() {
+export default function Example(props) {
     return (
-        <div style={propTypes.stylesheet}>
+        <div style={props.stylesheet}>
             <p>Customized Text</p>
         </div>
     );

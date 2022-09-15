@@ -1,5 +1,5 @@
 const styledText = {
-    fontSize: "26px",
+    fontSize: "50px",
     textAlign: "center",
     margin: "40px",
     border: "1px solid green"

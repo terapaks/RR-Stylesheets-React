@@ -4,7 +4,7 @@ import Example2 from './components/Example2'
 import TextComponent from './components/TextComponent'
 
 const stylesheet = {
-  fontSize: '15px',
+  fontSize: '25px',
   textAlign: 'center',
 }
 
